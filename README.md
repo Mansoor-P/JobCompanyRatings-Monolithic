@@ -6,9 +6,7 @@ A comprehensive monolithic application that provides detailed reviews and insigh
 **Features:**
 - **Company Profiles:** Detailed information about job companies, including industry, location, and size.
 - **Employee Reviews:** Honest reviews and ratings from current and former employees about their work experiences.
-- **Search and Filter:** Powerful search and filter options to find companies based on various criteria.
 - **User Authentication:** Secure user login and registration for submitting reviews and saving favorite companies.
-- **Admin Panel:** Administrative tools for managing content, reviews, and user accounts.
 - **Responsive Design:** Fully responsive design to ensure a seamless experience across all devices.
 
 **Technology Stack:**
@@ -19,7 +17,7 @@ A comprehensive monolithic application that provides detailed reviews and insigh
 - **Deployment:** Docker, Kubernetes
 
 **Getting Started:**
-1. Clone the repository: `git clone https://github.com/your-username/JobReviewHub.git`
+1. Clone the repository: `git clone https://github.com/Mansoor-P/JobCompanyReview.git`
 2. Navigate to the project directory: `cd JobReviewHub`
 3. Follow the setup instructions in the README file to get the application up and running.
 
